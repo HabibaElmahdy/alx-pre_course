@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+#!/bin/bash echo "School"
+=======
+#!/bin/bash
+echo "School"
+>>>>>>> 0091b8eac08b968d9512abdcfc95c131f0485e1f
+=======
+#!/bin/bash
+echo "The school is open!
+>>>>>>> origin/update_script
