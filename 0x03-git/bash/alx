@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-#!/bin/bash 
-echo "ALX School is so cool!
-"
-=======
-#!/bin/bash
-echo "ALX"
->>>>>>> 0091b8eac08b968d9512abdcfc95c131f0485e1f
-=======
-#!/bin/bash
-echo "ALX School"
->>>>>>> origin/update_script
+ALX School is so cool!
